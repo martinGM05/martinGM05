@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martín González Miranda</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=martingm05&label=Profile%20views&color=0e75b6&style=flat" alt="martingm05" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martingm05" alt="martingm05" /></a> </p>
+<h3 align="center">A passionate about programming, i consider myself Full Stack</h3>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=martingm05&label=Profile%20views&color=0e75b6&style=flat" alt="martingm05" /> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martingm05" alt="martingm05" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@martngonzlezmi1" target="blank"><img src="https://img.shields.io/twitter/follow/@martngonzlezmi1?logo=twitter&style=for-the-badge" alt="@martngonzlezmi1" /></a> </p>
 
