@@ -5,11 +5,7 @@
 
 - 🔭 I’m currently working on **REST API connection from flutter and angular**
 
-- 🌱 I’m currently learning **R, python in data science**
-
 - 👯 I’m looking to collaborate on **in projects of mass consumption of APIs**
-
-- 🤝 I’m looking for help with **Data science**
 
 - 💬 Ask me about **Angular, Flutter, .NET**
 
