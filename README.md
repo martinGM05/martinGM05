@@ -3,11 +3,7 @@
 
 <br><br>
 
-- 🔭 I’m currently working on **REST API connection from flutter and angular**
-
-- 👯 I’m looking to collaborate on **in projects of mass consumption of APIs**
-
-- 💬 Ask me about **Angular, Flutter, .NET**
+- 💬 Ask me about **React, Flutter.
 
 - 📫 How to reach me **mtn.gm05@gmail.com**
 
