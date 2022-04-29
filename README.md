@@ -1,7 +1,7 @@
-```
+```javascript
 const aboutMe = {
   name: "Martín González Miranda",
   from: "Puebla, México",
-  languages: ["Spain", "English"],
+  code: ['HTML','CSS', 'Javascript', 'C#', 'Java', 'Python'],
 }
-```
+``` 
