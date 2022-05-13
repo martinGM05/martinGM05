@@ -5,4 +5,5 @@ const aboutMe = {
   code: ['HTML','CSS', 'Javascript', 'Dart', 'Typescript', 'C#', 'Java', 'Python'],
   frontend: ['React', 'Vue'],
   backend: ['Express', 'Strapi']
-``` 
+}
+```
