@@ -4,7 +4,7 @@
 
 - 🧙‍♂️ Using daily: `Typescript` `Angular` `Serverless` `React` `Spring Boot` `Elixir` `Docker` `SQL`
 - :neckbeard: I am currently working with the frameworks `Angular` `Serverless` `Spring Boot` `Phoenix`
-- :school_satchel: I’m currently learning `Spring Boot` `Elixir`
+- :school_satchel: I’m currently learning `Testing` `.NET`
 
   
 <h2 align='center'><code>< /AboutMe ></code></h2>
