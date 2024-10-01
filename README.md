@@ -20,32 +20,6 @@ I am a passionate and dedicated Full Stack Developer with a strong focus on fron
 
 ---
 
-### 🔧 Technologies & Tools
-
-- **Frontend:**
-  - `TypeScript` `JavaScript` `Nuxt.js` `Angular` `React`
-  - UI/UX Development with `Storybook` and Component-Driven Design
-  - Performance Optimization Techniques and SEO Best Practices
-- **Backend:**
-  - `Serverless` `Spring Boot` `Elixir` `Phoenix`
-  - Database Management with `SQL` and `NoSQL` solutions
-- **DevOps & Tools:**
-  - Containerization with `Docker`
-  - CI/CD Pipelines and Serverless Architectures
-  - Code versioning and collaboration with `Git` and `GitHub`
-
----
-
-### 🛠️ Core Competencies
-
-- **Frontend Excellence:** Specializing in developing responsive, dynamic, and visually appealing interfaces, with a strong understanding of component architecture, performance optimization, and SEO.
-- **Backend Proficiency:** Building robust and scalable server-side applications, ensuring seamless integration with frontend systems and external services.
-- **Testing Expertise:** Advocating for comprehensive testing strategies to ensure the reliability and maintainability of web applications.
-- **Collaboration & Leadership:** Adept at working in agile teams, leading projects, and mentoring junior developers to achieve collective success.
-- **Continuous Improvement:** A strong advocate for writing clean, maintainable code, with an ongoing commitment to learning and adopting best practices in performance, testing, and SEO.
-
----
-
 ### 🚀 What I'm Working On
 
 - **Nuxt.js Projects:** Developing complex frontend applications, optimizing performance, and enhancing user experience.
@@ -53,21 +27,6 @@ I am a passionate and dedicated Full Stack Developer with a strong focus on fron
 - **Performance & SEO Optimization:** Continuously refining web applications to achieve top scores in Core Web Vitals, improving loading times, and implementing SEO strategies.
 - **Testing:** Implementing comprehensive testing methodologies to ensure code reliability and application stability.
 
----
 
-### 🌱 Learning & Growth
-
-- **In Progress:** Deepening expertise in frontend performance optimization, advanced testing techniques, and SEO strategies.
-- **Future Goals:** Becoming a leading expert in creating high-performance, SEO-optimized web applications with a strong focus on user experience and accessibility.
-
----
-
-### 🎯 Personal Interests
-
-- **Martial Arts Enthusiast:** Passionate about discipline and perseverance, which I bring to both my personal life and professional work.
-- **Technology Lover:** Always curious and eager to explore new tech trends, tools, and methodologies.
-- **Community Contributor:** Actively engaged in sharing knowledge through mentoring and contributing to open-source projects.
-
----
 
 <h1 align="center"><code>&lt; /Martin González Miranda &gt;</code></h1>
